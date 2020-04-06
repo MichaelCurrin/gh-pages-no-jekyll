@@ -4,7 +4,7 @@
 - Build will at a homepage link to the top of each page. That is `h1`, so you first heading on the page should be an `h2`.
 - There's an improve this page button the bottom right.
 - Serve from project root or `docs` directory - like a Jekyll site.
-- Optionally use `.nojekyll` file - needed for projects with handlebars which are not Jekyll, such as some JS sites.
+- Optionally use `.nojekyll` file - needed for projects with handlebars which are not Jekyll, such as some JS sites, otherwise you'll get a build error. Though then you'll lose markdown to HTML rendering and so can only use HTML files for content.
 
 
 Example code block:
