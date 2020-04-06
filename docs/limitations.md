@@ -11,3 +11,5 @@ Note lack of `.md` in path. The `.md` file is there too on the server, but if yo
 ```
 - [Foo](foo)
 ```
+
+If you don't use a README.md then an index file is needed.
