@@ -3,7 +3,7 @@
 
 - A static site intended for docs or simple website. This project is great as reference or template for those.
 - No custom styling with CSS.
-- No Jekyll theme or Liquid syntax is used. 
+- No Jekyll theme or Liquid syntax is used. Where Liquid is actually used, it is code snippets and the `raw` tag is used to stop from rendering and giving an error on values no available).
 - The Jekyll build is still run on Github Pages to convert markdown to HTML (a `.nojekyll` file would prevent this). 
 - This project is not meant to be run locally.
 
