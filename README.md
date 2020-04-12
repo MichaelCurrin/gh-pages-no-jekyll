@@ -1,7 +1,7 @@
 # GH Pages No Jekyll
 > Example of a site Github Pages site using Github's default styling
 
-- Static site intended for docs or simple website,
+- A static site intended for docs or simple website. This project is great as reference or template for those.
 - No custom styling with CSS.
 - No Jekyll theme or Liquid syntax is used. 
 - The Jekyll build is still run on Github Pages to convert markdown to HTML (a `.nojekyll` file would prevent this). 
