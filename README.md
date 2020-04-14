@@ -5,8 +5,14 @@
 - No custom styling with CSS.
 - No Jekyll theme or Liquid syntax is used. Where Liquid is actually used, it is code snippets and the `raw` tag is used to stop from rendering and giving an error on values no available).
 - The Jekyll build is still run on Github Pages to convert markdown to HTML (a `.nojekyll` file would prevent this). 
-- This project is not meant to be run locally.
+- This project is **not** meant to be run locally (if there is a way, this is not covered here).
 
 Read more on the live demo site, which serves from the [docs](/docs) directory.
 
 [![Site Github Pages](https://img.shields.io/badge/site-Github%20Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
+
+## What about a Wiki?
+
+As an alternative, consider using the Wiki feature on Github. 
+
+It will give a similar Github-styled experience of doc pages that separate from the code and files, but with the benefit of a menu. Note that a Wiki lives in its own repo, so updates made independently to the main part of the repo.
