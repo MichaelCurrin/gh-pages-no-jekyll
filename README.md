@@ -13,6 +13,8 @@
 
 ## About this repo
 
+<!-- TODO move to docs -->
+
 - A static site intended for docs or simple website. This project is great as reference or template for those.
 - No custom styling such as CSS is used. Just plain markdown docs. GitHub automatically adds something like this to each page:
     - Site title
