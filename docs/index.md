@@ -2,6 +2,7 @@
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-green?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
 
+GitHub repo: [MichaelCurrin/gh-pages-no-jekyll](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
 
 ### About
 
