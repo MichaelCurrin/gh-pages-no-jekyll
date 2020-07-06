@@ -1,7 +1,14 @@
 # GH Pages No Jekyll
-> Example of a site Github Pages site using Github's default styling
+> A GitHub Pages markdown-based site that gets styling from GitHub rather than Jekyll
 
 [![Site Github Pages](https://img.shields.io/badge/site-Github%20Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
+
+
+## Features
+
+- Template / quickstart
+- Reference and tutorial
+- Live demo
 
 
 ## About this repo
