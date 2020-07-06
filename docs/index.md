@@ -1,6 +1,6 @@
 > Example of a site Github Pages site without Jekyll 
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-green?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
 
 
 ### Menu
@@ -16,4 +16,4 @@
 - Read the info on the site.
 - Use this repo as a reference or template for your own project.
 
-GitHub repo: [MichaelCurrin/gh-pages-no-jekyll](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
+View source: [MichaelCurrin/gh-pages-no-jekyll ![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/gh-pages-no-jekyll?style=social)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
