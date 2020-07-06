@@ -18,7 +18,7 @@ echo 'Hello, world!'
 
 #### No Jekyll
 
-If you want to upload plain HTML, create a `.nojekyll` file.
+If you want to upload plain HTML instead of `.md` files, create an empty `.nojekyll` file in your repo.
 
 #### Jekyll
 
@@ -32,4 +32,9 @@ Jekyll will turn `index.md` into `index.html`. Any Liquid code for Jekyll can ca
 
 Links will have to be to `[link label](page)` and not to `[link label](page.md)`.
 
-Do you use an absolute URL for the target.
+Keep your URLs relative so that your project title can prefixed for you. 
+
+e.g.
+
+- `page` will become `/my-project/page.html` 
+- `/page` will become `/page.html` and be a broken link.
