@@ -1,7 +1,7 @@
 # GH Pages No Jekyll
 > A GitHub Pages markdown-based site that gets styling from GitHub rather than Jekyll
 
-[![Site Github Pages](https://img.shields.io/badge/site-Github%20Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
+[![Site Github Pages](https://img.shields.io/badge/site-Github_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
 
 
 ## Features
@@ -14,7 +14,15 @@
 ## About this repo
 
 - A static site intended for docs or simple website. This project is great as reference or template for those.
-- No custom styling such as CSS is used
+- No custom styling such as CSS is used. Just plain markdown docs. GitHub automatically adds something like this to each page:
+    - Site title
+        - _gh-pages-no-jekyll_
+    - CSS styling reference to make the page white and blue.
+        - GitHub will create this file for you at the path `assets/css/style.css` and add a `link` stylesheet tag to a URL like this:
+            - `/gh-pages-no-jekyll/assets/css/style.css?v=fb1...">`
+        - Here is a [sample](https://michaelcurrin.github.io/gh-pages-no-jekyll/assets/css/style.css)
+    - Footer
+        - _This site is open source. Improve this page._
 - No Jekyll theme or Liquid syntax is used. Where Liquid is actually used, it is code snippets and the `raw` tag is used to stop from rendering and giving an error on values no available).
 - The Jekyll build is still run on Github Pages to convert markdown to HTML (a `.nojekyll` file would prevent this). 
 - This project is **not** meant to be run locally (if there is a way, this is not covered here).
