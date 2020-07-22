@@ -9,3 +9,10 @@ This means it is very **light**, as you only write content.
 Note you can still use Jekyll Liquid templating. But the idea for this project is to avoid it and make a plain markdown docs site, which is easy for anyone to edit without Jekyll experience.
 
 Your root page should be `index.md` or `README.md`. There is no navbar, so it is recommended to add a menu on your homepage which links to the other pages. You can always get back to the homepage using the link added for you at the top of every page.
+
+
+### Convert to Jekyll
+
+The approach here is also flexible - you can add a `_config.yml` file and a theme to turn your site in a proper Jekyll-based themed site.
+
+You don't even have to add metadata to your pages - the layout will be set as `default.html`.
