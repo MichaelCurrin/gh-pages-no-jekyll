@@ -1,6 +1,11 @@
-> Example of a site Github Pages site without Jekyll 
+# Documentation
+> Example of a simple docs site on Github Pages
 
+<div align="center">
+  
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
+
+</div>
 
 
 ### Menu
@@ -16,4 +21,4 @@
 - Read the info on the site.
 - Use this repo as a reference or template for your own project.
 
-View source: [MichaelCurrin/gh-pages-no-jekyll ![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/gh-pages-no-jekyll?style=social)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
+View source: [![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
