@@ -33,3 +33,9 @@ Note on the extension of targets:
 Github Pages error messages on a build on a limited.
 
 And you probably need to install something to test the build locally.
+
+### Badges
+
+If you try and use a shields.io badge inside a centered badge, the code will get shown as plain text. This is an issue on a normal Jekyll site.
+
+So take out the centering, or use HTML instead of markdown.
