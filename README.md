@@ -44,11 +44,16 @@ Read more on the live [demo site](https://michaelcurrin.github.io/gh-pages-no-je
 
 ## What about a Wiki?
 
+<div align="center">
+
 [![Project Wiki](https://img.shields.io/badge/Wiki-blue?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/wiki)
+
+</div>
 
 As an alternative, consider using the Wiki feature on Github.
 
 It will give a similar Github-styled experience of doc pages that separate from the code and files, but with the benefit of a menu. Note that a Wiki lives in its own repo, so updates made independently to the main part of the repo. A Wiki has a history, but does it not work Pull Requests and reviews so the edit process is different.
+
 
 ## License
 
