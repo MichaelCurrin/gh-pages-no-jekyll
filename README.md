@@ -5,6 +5,14 @@
 [![License - MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
+## Preview
+
+<div align="center">
+    <a href="https://michaelcurrin.github.io/gh-pages-no-jekyll/">
+        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="350" />
+    </a>
+</div>
+
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
