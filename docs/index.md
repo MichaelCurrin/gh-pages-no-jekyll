@@ -1,11 +1,12 @@
 # Documentation
 > Example of a simple docs site on Github Pages
 
-<div align="center">
-  
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
 
-</div>
+<span class="align-center">
+    <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
+        <img src="https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&amp;logo=github" alt="Use this template">
+    </a>
+</span>
 
 
 ### Menu
