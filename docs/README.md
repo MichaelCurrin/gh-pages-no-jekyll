@@ -14,7 +14,7 @@ permalink: /
 
 ### Menu
 
-- [About](about.md)
+- [About](about)
 - [Features](features)
 - [Limitations](limitations)
 
