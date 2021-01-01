@@ -2,11 +2,11 @@
 > Example of a simple docs site on Github Pages
 
 
-<span class="align-center">
+<div align="center">
     <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
         <img src="https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&amp;logo=github" alt="Use this template">
     </a>
-</span>
+</div>
 
 
 ### Menu
