@@ -14,15 +14,17 @@ permalink: /
 
 ### Menu
 
-- [About](about)
-- [Features](features)
-- [Limitations](limitations)
+- [About](about.md)
+- [Features](features.md)
+- [Limitations](limitations.md)
 
 
 ### How you can use this project
 
-- View the live demo site.
-- Read the info on the site.
+- View this live demo.
+- Read the info here.
 - Use this repo as a reference or template for your own project.
 
-View source: [![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
+View source:
+
+- [![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
