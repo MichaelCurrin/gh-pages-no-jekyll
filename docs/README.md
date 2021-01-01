@@ -1,8 +1,8 @@
 ---
 permalink: /
 ---
-# Documentation
-> Example of a markdown-only docs site on Github Pages
+## Documentation
+> Example of a markdown-only docs site on GitHub Pages
 
 
 <div align="center">
