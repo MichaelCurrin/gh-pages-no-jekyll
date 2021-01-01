@@ -6,6 +6,7 @@
 - There's an _Improve this page_ button  inthe bottom right.
 - Setup your project around your project root, or your `docs` directory for a docs site.
 
+
 ### Styling
 
 Example code block:
@@ -13,6 +14,7 @@ Example code block:
 ```sh
 echo 'Hello, world!'
 ```
+
 
 ### Jekyll vs no Jekyll
 
@@ -24,16 +26,43 @@ If you want to upload plain HTML instead of `.md` files, create an empty `.nojek
 
 If you want to upload markdown and have it rendered to HTML with Github's base styling, leave the `.nojekyll` file out so that Jekyll is used. Note that you don't need any config, Gemfile, theme etc. Just an `index.md` page and optionally more linked pages will work.
 
-
 Jekyll will turn `index.md` into `index.html`. Any Liquid code for Jekyll can cause build errors, so since you're using Jekyll to parse you files you should use the `raw` tag to prevent the Liquid from being evaluated and rather render as plain text (typically in a codeblock). 
 
-### Links
 
-Links will have to be to `[link label](page)` and not to `[link label](page.md)`.
+### Homepage
 
-Keep your URLs relative so that your project title can prefixed for you. 
+The homepage needs be available as `/` i.e. `/index.html` when the site is rendered. 
 
-e.g.
+Therefore your homepage should be named `index.md`. 
 
-- `page` will become `/my-project/page.html` 
-- `/page` will become `/page.html` and be a broken link.
+Or, name it `README.md` and use the following Jekyll frontmatter:
+
+```
+---
+permalink:
+---
+# Documentation
+```
+
+
+### Navigation
+
+Internall links to pages can be one of these.
+
+```md
+[Alt text](foo.md)
+```
+
+Which points to `/foo.html`.
+
+Or this.
+
+```md
+[Alt text](foo)
+```
+
+Which points to `/foo`.
+
+Remember to omit the leading slash in your path, otherwise you'll break links on a subpath project site on GH Pages.
+
+If there are broken internal links, the build will fail, which is useful.
