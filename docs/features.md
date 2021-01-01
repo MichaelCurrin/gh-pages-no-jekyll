@@ -1,10 +1,10 @@
 ## Features
 
-- Use built in styling - CSS added for centered layout which is cleaner than a plain view of markdown files in a repo. 
-- Build will at a homepage link to the top of each page. That is `h1`, so you first heading on the page should be an `h2`.
-- There's an improve this page button the bottom right.
-- Serve from project root or `docs` directory - like a Jekyll site.
-
+- A very light website site - no Jekyll config or theme or gems.
+- Uses built-in styling provided by GitHub Pages - this is similar to viewing pages on GitHub but is cleaner.
+- The build will add a homepage link to the top of each page. That is `h1`, so you first heading on the page should be an `h2`.
+- There's an _Improve this page_ button  inthe bottom right.
+- Setup your project around your project root, or your `docs` directory for a docs site.
 
 ### Styling
 
@@ -26,7 +26,6 @@ If you want to upload markdown and have it rendered to HTML with Github's base s
 
 
 Jekyll will turn `index.md` into `index.html`. Any Liquid code for Jekyll can cause build errors, so since you're using Jekyll to parse you files you should use the `raw` tag to prevent the Liquid from being evaluated and rather render as plain text (typically in a codeblock). 
-
 
 ### Links
 
