@@ -1,5 +1,8 @@
+---
+permalink: /
+---
 # Documentation
-> Example of a simple docs site on Github Pages
+> Example of a markdown-only docs site on Github Pages
 
 
 <div align="center">
