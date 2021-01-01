@@ -19,14 +19,15 @@ permalink:
 
 Links to markdown files have to be done differently. See below. If there are broken internal links, the build will fail.
 
-```
+```md
 - [Foo](foo)
 ```
 
 Note on the extension of targets:
 
-- Note **lack** of `.md` in path for the docs site to work. The `.md` file is actually there too on the remote server, but if you try and enter it in the URL you'll get prompted to download it.
-- If you look at a file like on Github such as `https://github.com/USERNAME/REPO/docs/index.md`, if you click the link to Foo you'll get a page with a URL ending with `/foo`. This will appear as an error but this is fine.
+- Note no extension. The `.md` file is actually there too on the remote server, but if you try and enter it in the URL you'll get prompted to download it.
+- Note no leading forwardlash - this allows your site to serve on a GitHub Pages subpath.
+- That points to `/foo` (no extension or trailing slash), which is an alias for `/foo.html`.
 
 ### Debugging
 
