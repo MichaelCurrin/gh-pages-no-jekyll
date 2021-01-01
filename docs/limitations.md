@@ -17,23 +17,29 @@ permalink:
 
 ### Navigation
 
-Links to markdown files have to be done differently. See below. If there are broken internal links, the build will fail.
+If there are broken internal links, the build will fail.
 
 ```md
 - [Foo](foo)
 ```
 
-Note on the extension of targets:
+That points to `/foo` (no extension or trailing slash), which is an alias for `/foo.html`.
 
-- Note no extension. The `.md` file is actually there too on the remote server, but if you try and enter it in the URL you'll get prompted to download it.
-- Note no leading forwardlash - this allows your site to serve on a GitHub Pages subpath.
-- That points to `/foo` (no extension or trailing slash), which is an alias for `/foo.html`.
+Or you can use:
+
+```md
+- [Foo](foo.md)
+```
+
+Which will point to `/foo.html`.
+
+Note no leading forward slash in paths - this allows your site to serve on a GitHub Pages subpath.
 
 ### Debugging
 
-Github Pages error messages on a build on a limited.
+Github Pages error messages on a build are limited.
 
-And you probably need to install something to test the build locally.
+There is no flow for setting up this project locally, which also makes debugging harder. You could install and run Jekyll though if you need to.
 
 ### Badges
 
