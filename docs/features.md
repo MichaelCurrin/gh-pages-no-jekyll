@@ -15,6 +15,16 @@ Example code block:
 echo 'Hello, world!'
 ```
 
+Remember to use `h2` elements at the top of your page, as `h1` is already taken care of as a header.
+
+e.g.
+
+```md
+## About
+
+Content here.
+```
+
 
 ### Jekyll vs no Jekyll
 
