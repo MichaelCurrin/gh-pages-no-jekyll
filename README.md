@@ -13,11 +13,13 @@
     </a>
 </div>
 
+<br>
+
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
+[![Use this template](https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
 
 </div>
 
