@@ -2,7 +2,7 @@
 > A markdown-based docs on GitHub Pages which gets minimal styling from GitHub without a Jekyll theme
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gh-pages-no-jekyll?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/releases/)
-[![License - MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
 ## Preview
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate)
 
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/gh-pages-no-jekyll/)
 
