@@ -2,7 +2,7 @@
 
 ## Debugging
 
-Github Pages error messages on a build are limited.
+GitHub Pages error messages on a build are limited.
 
 There is no flow for setting up this project locally, which also makes debugging harder. You could install and run Jekyll though if you need to.
 
