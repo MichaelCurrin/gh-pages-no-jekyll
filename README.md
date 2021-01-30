@@ -1,5 +1,5 @@
 # GH Pages No Jekyll
-> A markdown-based docs on GitHub Pages which gets minimal styling from GitHub without a Jekyll theme
+> Template for a markdown-based docs site hosted on GH Pages
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/gh-pages-no-jekyll?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
@@ -24,8 +24,15 @@
 
 ## Features
 
-- Template / quickstart
-- Reference and tutorial
+- The docs site use a default minimal theme provided by GitHub. 
+- Great for a light docs site that doesn't need coding experience to setup or work on.
+- Works without Jekyll templating, a Jekyll theme or Jekyll config.
+
+
+## How to use this project
+
+- Template for a new project
+- Reference and tutorial content
 - Live demo
 
 
