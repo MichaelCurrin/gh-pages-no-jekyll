@@ -1,9 +1,8 @@
 ---
 permalink: /
 ---
-## Documentation
-> Example of a markdown-only docs site on GitHub Pages
-
+# **Documentation**
+> How this project works and how to maintain your own
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
@@ -12,19 +11,21 @@ permalink: /
 </div>
 
 
+## How to use this project
+
+- Template for a new project.
+- Reference for existing project.
+- Tutorial content under template notes.
+- Live demo.
+
+
 ### Menu
 
 - [About](about.md)
 - [Features](features.md)
 - [Limitations](limitations.md)
+- [What about a Wiki?](wiki.md)
 
+View source on GitHub:
 
-### How you can use this project
-
-- View this live demo.
-- Read the info here.
-- Use this repo as a reference or template for your own project.
-
-View source:
-
-- [![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
+[![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
