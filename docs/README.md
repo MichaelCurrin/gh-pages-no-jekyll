@@ -6,17 +6,17 @@ permalink: /
 
 <div align="center">
     <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
-        <img src="https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge&logo=github" alt="Use this template">
+        <img src="https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge" alt="Use this template">
     </a>
 </div>
 
 
 ## How to use this project
 
-- Template for a new project.
-- Reference for existing project.
+- Template for a new project or docs site.
+- Reference for existing projects.
 - Tutorial content under template notes.
-- Live demo.
+- Live demo site.
 
 
 ## Menu
