@@ -15,17 +15,16 @@ permalink: /
 
 This project is built around using markdown content to make a website. 
 
-Jekyll is actually still used to convert from markdown to HTML, but you don't need to anything about Ruby or Jekyll or Liquid. 
+This proejct is great for non-developers to work on. No experience with Ruby, Jekyll, Liquid, HTML or CSS required. Those are all used internally, but you don't need to worry about that.
 
 This project is super light. No config needed. You don't need to setup a theme or a layout. GitHub will figure that out and will apply its standard theme to your GitHub Pages site. So will it will have a clean, white, mobile-friendly site with a heading. The limitations are covered more on these pages, such as lack of a navbar. But you can still setup links to pages, as with the Menu below.
 
 
 ## How to use this project
 
-- Template for a new project or docs site.
-- Reference for existing projects.
-- Tutorial content under template notes.
-- Live demo site.
+- Template for a new project or docs site. Or use as a reference for existing projects.
+- Read the tutorial content under template notes.
+- View this live demo site.
 
 
 ## Menu
